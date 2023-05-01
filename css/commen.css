@@ -100,7 +100,7 @@ p{
 
 /* ============= Background - Resume and Gallery  ============= */
 .background-second {
-    height: 40vh;
+    height: 250px;
     background: url(../assets/images/testimonial.jpg);
     background-size: cover;
     background-position: 50%;
